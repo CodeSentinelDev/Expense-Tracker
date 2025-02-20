@@ -4,7 +4,7 @@
 
 This Erasmus Expense Tracker is a simple yet technically robust Python project designed to track monthly expenses and income using a graphical user interface (GUI) built with Tkinter. The project leverages file handling with CSV, user input validation, and a structured GUI to provide an intuitive experience while managing financial records.
 
-This application was developed last year while studying abroad on Erasmus, primarily as a personal tool to monitor expenses and budget effectively. Despite its simplicity, the project integrates proficiency in Python programming, data handling, and GUI development.
+This application was developed last year while studying abroad on Erasmus, primarily as a personal tool to monitor expenses and budget effectively. Despite its simplicity, the project integrates Python programming, data handling, and GUI development.
 
 ---
 
